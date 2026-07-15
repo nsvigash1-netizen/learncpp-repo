@@ -1,5 +1,5 @@
 #include <iostream>
-
+// variable initialization- typecasting
 int main() {
     std::cout << "Enter a number: ";
     int x{};
