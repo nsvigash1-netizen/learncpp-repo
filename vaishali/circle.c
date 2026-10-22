@@ -21,5 +21,4 @@ int main(){
     printf("root of %d is: %d", radius, root);
     return 0;
 
-
 }
