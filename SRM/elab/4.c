@@ -1,3 +1,7 @@
+// Problem Description:
+
+//  A customer bought apples from a fruit shop and received a bill from the shopkeeper. The customer then provided an amount to the shopkeeper for paying the bill. They are interested in knowing the quotient and remainder after dividing the amount they provided by the bill amount specified by the shopkeeper.
+
 #include <stdio.h>
 int main()
 {
