@@ -8,6 +8,6 @@ int main() {
     std::cout << "Value of x: " << x;
     std::cout << "\nValue of y: " << y << "\n";
 
-    std::cout << "No. of bytes int can hold: " << sizeof(int);
+    std::cout << "No. of bytes int can hold: " << sizeof(int) << std::endl;
     return 0;
 }
