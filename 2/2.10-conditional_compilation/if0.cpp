@@ -4,6 +4,7 @@ int main()
 {
     std::cout << "Joe\n";
 
+// #if 1 always compiles code
 #if 0 // Don't compile anything starting here
     std::cout << "Bob\n";
     std::cout << "Steve\n";
