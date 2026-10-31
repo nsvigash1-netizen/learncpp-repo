@@ -6,6 +6,8 @@
 
 // Function prototype (or Function Declaration)
 void doPrint(int count);
+
+// void doPrint(int); is also valid
 int main() {
     std::cout << "Starting main()\n";
     doPrint(1);
