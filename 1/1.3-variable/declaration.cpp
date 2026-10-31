@@ -1,3 +1,4 @@
+#include <iostream>
 int main() {
     // This is a comment
     /*
@@ -6,5 +7,7 @@ int main() {
     */
     int x;
     int y, z;
+
+    std::cout << "Hello, World!";
     return 0;
 }
