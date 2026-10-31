@@ -7,5 +7,7 @@ int main() {
     std::cin >> x >> y;
     std::cout << "Value of x: " << x;
     std::cout << "\nValue of y: " << y << "\n";
+
+    std::cout << "No. of bytes int can hold: " << sizeof(int);
     return 0;
 }
